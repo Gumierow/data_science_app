@@ -2,3 +2,4 @@ streamlit
 plotly
 pandas
 seaborn
+scikit-learn
